@@ -16,7 +16,8 @@ function loadAboutMe() {
             <p class="max-w-prose mx-auto">
                 I create arcade retro-style games using Pico-8.
             </p>   
-            <div class="flex items-center justify-center mt-4 space-x-4">
+            <!-- Stacking the images on top of each other for mobile -->
+            <div class="flex flex-col md:flex-row items-center justify-center mt-4  gap-4">
                 <img src="images/games/penguindodger/gif/penguindodger.gif" alt="Penguin Dodger Gameplay Gif">
                 <img src="images/games/templescore/gif/templescore.gif" alt="Temple Score Gameplay Gif">
             </div>
