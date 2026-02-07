@@ -24,8 +24,10 @@ function loadGames() {
                     <div class="order-2 md:order-1"> 
                         <h1 class="text-xl font-bold"> Temple Score</h1>
                         <h1 class="text-lg"> Released in May 21st 2025</h1>
-                        <p class="max-w-prose mx-auto"> Dodge chasing and random moving enemies, use powerups, collect coins to increase your score </p>
-                        <p class="max-w-prose mx-auto"> This was the first game I created, which I was proud of at the start but looking back now there are many things that could be improved but it was a great learning experience. </p>
+                        <p class="max-w-prose mx-auto"> 
+                            Dodge chasing and random moving enemies, use powerups, collect coins to increase your score.
+                            This was the first game I created, which I was proud of at the start but looking back now there are many things that could be improved but it was a great learning experience.
+                        </p>
                         <a href="https://lethaldawg.itch.io/temple-score" target="_blank" class="underline">Play Temple Score on itch.io</a>
                     </div>
 
@@ -61,7 +63,7 @@ function loadGames() {
                     <p class="max-w-prose mx-auto"> 
                         Dodge orbs shot by evil seals to survive and beat your highscore.
                         This was my second game I created, much more polished than my first one, better feeling to the gameplay
-                        with more tight colissions, improved visuals and music and a more simple but tighter gameplay loop.
+                        with more tight colissions, increasing difficulty, particle effects, improved visuals and music and a more simple but tighter gameplay loop.
                     </p>
                     <a href="https://lethaldawg.itch.io/penguin-dodger" target="_blank" class="underline">Play Penguin Dodger on itch.io</a>
                 </div>
