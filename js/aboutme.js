@@ -14,12 +14,12 @@ function loadAboutMe() {
                 </p>
             </div>
 
-            <h1 class="text-xl font-semibold mt-4"> Tech Stack </h1>
+            <h1 class="text-xl font-bold mt-4"> Tech Stack </h1>
             <p class="max-w-prose mx-auto">
                I have experience with a variety of programming languages and technologies, including Java, Lua, and more. I enjoy learning new technologies and applying them to my projects. 
             </p>    
         
-            <h1 class="text-xl font-semibold mt-4"> Game Development </h1>
+            <h1 class="text-xl font-bold mt-4"> Game Development </h1>
             <p class="max-w-prose mx-auto">
                 I create arcade retro-style games using Pico-8.
             </p>   
