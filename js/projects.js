@@ -19,8 +19,8 @@ function loadProjects() {
             </p>
             <a href="https://github.com/LucasAlexandrou/RomSorter" target="_blank" class="underline block text-center mt-4">View ROM Sorter on Github</a>
             <div class="flex flex-col items-center mt-4 gap-4">
-                <img src="images/romsorter/beforesort.png" alt="ROM Sorter Screenshot" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
-                <img src="images/romsorter/aftersort.png" alt="ROM Sorter Screenshot 2" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+                <img src="images/romsorter/beforesort.PNG" alt="ROM Sorter Screenshot" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+                <img src="images/romsorter/aftersort.PNG" alt="ROM Sorter Screenshot 2" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
             </div>
 
             <h1 class="text-center text-xl font-bold mt-4"> Tier List Maker </h1>
