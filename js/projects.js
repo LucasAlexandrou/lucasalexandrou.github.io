@@ -9,6 +9,18 @@ function loadProjects() {
                 I used Tailwind CSS for styling and to make the website responsive, and I used JavaScript to dynamically load the content for each section of the website. As the website is hosted on Github Pages, I am able to easily update and maintain it.
                 I believe I was able to create a clean and simple design that does it's job of showcasing some of my projects. I plan to continue improving and updating the website as I create more projects and gain more experience in web development.
             </p>
+
+            <h1 class="text-center text-xl font-bold mt-4"> LethalTheme-ES </h1>
+            <p class="max-w-prose mx-auto mt-4">
+                LethalTheme-ES is a theme built for EmulationStation, a popular front-end used in Batocera based Linux devices and Retrobat on Widonws.
+                The theme uses system icons from iiSU. It supports multiple game views including grid, carousel, basic and detailed and has multiple colour schemes.
+                It uses relative positioning giving it a responsive design for multiple aspect ratios such as 4:3, 16:10 and 3:2.
+            </p>
+            <a href="https://github.com/LucasAlexandrou/LethalTheme-ES" target="_blank" class="underline block text-center mt-4">View LethalTheme-ES on Github</a>
+            <div class="flex flex-col items-center mt-4 gap-4">
+                <img src="images/lethaltheme-es/light-pink-system.PNG" alt="LethalTheme-ES Screenshot" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+                <img src="images/lethaltheme-es/dark-system-gba.PNG" alt="LethalTheme-ES Screenshot 2" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+            </div>
            
             <h1 class="text-center text-xl font-bold mt-4"> ROM Sorter </h1>
             <p class="max-w-prose mx-auto mt-4">
