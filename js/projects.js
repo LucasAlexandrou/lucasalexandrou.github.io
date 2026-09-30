@@ -18,8 +18,8 @@ function loadProjects() {
             </p>
             <a href="https://github.com/LucasAlexandrou/LethalTheme-ES" target="_blank" class="underline block text-center mt-4">View LethalTheme-ES on Github</a>
             <div class="flex flex-col items-center mt-4 gap-4">
-                <img src="images/lethaltheme-es/light-pink-system.PNG" alt="LethalTheme-ES Screenshot" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
-                <img src="images/lethaltheme-es/dark-system-gba.PNG" alt="LethalTheme-ES Screenshot 2" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+                <img src="images/lethaltheme-es/light-pink-system.png" alt="LethalTheme-ES Screenshot" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
+                <img src="images/lethaltheme-es/dark-system-gba.png" alt="LethalTheme-ES Screenshot 2" class="block mx-auto mt-4 rounded-lg border-2 border-gray-800">
             </div>
            
             <h1 class="text-center text-xl font-bold mt-4"> ROM Sorter </h1>
